@@ -1,4 +1,4 @@
-# 203043401 Avi Miletzky
+# Avi Miletzky
 
 import heapq
 import math
